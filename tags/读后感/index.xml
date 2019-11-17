@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LiangChu 的博客</title>
-    <link>https://LiangChu-pro.github.io/</link>
-    <description>Recent content on LiangChu 的博客</description>
+    <title>读后感 on LiangChu 的博客</title>
+    <link>https://LiangChu-pro.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+    <description>Recent content in 读后感 on LiangChu 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 16:36:50 +0800</lastBuildDate>
     
-	<atom:link href="https://LiangChu-pro.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LiangChu-pro.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,16 +28,6 @@
 第二种方法就是将精力放在另一件事情上，就如教书的老汪每月十五和三十在野外走步、杨百利的喷空、县上破竹子的老鲁的走戏，都是如此。放弃对当前生活的苦恼，专心放在喜欢的事情上。
 第三种方法就是信仰上帝，老詹总是说信了主，就能知道自己是谁，从哪儿来，到哪儿去。信仰了上帝就可以和神进行对话，而神是无处不在且让人愉悦的，就可以解决心中的孤独感。
 第四种方法，就是学会去爱。这一点我还不是太懂，可能是我的人生阅历太浅，没有去理解。</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://LiangChu-pro.github.io/others/hello/</link>
-      <pubDate>Sun, 17 Nov 2019 15:39:05 +0800</pubDate>
-      
-      <guid>https://LiangChu-pro.github.io/others/hello/</guid>
-      <description>Hello ! This is my first blog !
-I will share some things interesting here!</description>
     </item>
     
   </channel>
