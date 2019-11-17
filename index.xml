@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://LiangChu-pro.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2019 15:39:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://LiangChu-pro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://LiangChu-pro.github.io/post/hello/</link>
+      <pubDate>Sun, 17 Nov 2019 15:39:05 +0800</pubDate>
+      
+      <guid>https://LiangChu-pro.github.io/post/hello/</guid>
+      <description>Hello ! This is my first blog !
+I will share some things interesting here!</description>
+    </item>
+    
+  </channel>
+</rss>
