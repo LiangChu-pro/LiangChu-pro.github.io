@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LiangChu 的博客</title>
-    <link>https://LiangChu-pro.github.io/</link>
-    <description>Recent content on LiangChu 的博客</description>
+    <title>Posts on LiangChu 的博客</title>
+    <link>https://LiangChu-pro.github.io/posts/</link>
+    <description>Recent content in Posts on LiangChu 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 16:36:50 +0800</lastBuildDate>
     
-	<atom:link href="https://LiangChu-pro.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LiangChu-pro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
